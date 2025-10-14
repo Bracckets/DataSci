@@ -21,6 +21,11 @@ This repository is a collection of data science case studies. Each folder contai
 
 ---
 
+# 📊 Data Sources
+
+I usually put the csv in the case. But If not found, I'll try to link the database kaggle link (If the link is not available and you need the data, contact me through Linkedin [Same Full Name] or here). 
+---
+
 ## 🤝 Contributing
 
 Feel free to fork the repo and add your own case studies, improvements, or documentation.
