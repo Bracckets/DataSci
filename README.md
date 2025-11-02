@@ -25,7 +25,7 @@ This repository is a collection of data science case studies. Each folder contai
 
 ## 📊 Data Sources
 
-- I usually put the csv in the case. But If not found, I'll try to link the database kaggle link (If the link is not available and you need the data, contact me through Linkedin [Same Full Name] or here).
+- I usually put the data source within the case folder. But If not found, I'll try to link the database kaggle link (If the link is not available and you need the data, contact me through Linkedin [Same Full Name] or here).
 
 ---
 
